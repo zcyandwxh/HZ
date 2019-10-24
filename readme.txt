@@ -1,1 +1,2 @@
-Git us a d
+Git is a distrbute
+tracks changes
